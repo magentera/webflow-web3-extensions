@@ -1,0 +1,19 @@
+{
+  "name": "webflow-web3-extensions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magentera/webflow-web3-extensions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magentera/webflow-web3-extensions/issues"
+  },
+  "homepage": "https://github.com/magentera/webflow-web3-extensions#readme"
+}
